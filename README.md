@@ -1,10 +1,18 @@
 # Nuxt Minimal Starter
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a minimal Nuxt 3 starter project, designed to help you get up and running quickly with a clean and lightweight setup. Built with TypeScript and Vite, this project provides the foundation for developing powerful Vue-based applications with server-side rendering support.
 
-## Setup
+## 🚀 Features
 
-Make sure to install dependencies:
+- ⚡️ Powered by Nuxt 3
+- 🧱 Clean and minimal boilerplate
+- 💡 TypeScript, Vite, and Vue 3 Composition API out of the box
+- 🌐 Server-side rendering (SSR) ready
+- 🔧 Easy to extend and customize
+
+## 🛠 Setup
+
+Install dependencies using your preferred package manager:
 
 ```bash
 # npm
@@ -18,13 +26,12 @@ yarn install
 
 # bun
 bun install
-```
+🧪 Development
+Start the development server on http://localhost:3000:
 
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
+bash
+Copy
+Edit
 # npm
 npm run dev
 
@@ -36,13 +43,12 @@ yarn dev
 
 # bun
 bun run dev
-```
-
-## Production
-
+📦 Production
 Build the application for production:
 
-```bash
+bash
+Copy
+Edit
 # npm
 npm run build
 
@@ -54,11 +60,11 @@ yarn build
 
 # bun
 bun run build
-```
+Preview the production build locally:
 
-Locally preview production build:
-
-```bash
+bash
+Copy
+Edit
 # npm
 npm run preview
 
@@ -70,6 +76,5 @@ yarn preview
 
 # bun
 bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+📚 Learn More
+To learn more about Nuxt, check out the official Nuxt Documentation.
