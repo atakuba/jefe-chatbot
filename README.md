@@ -1,4 +1,6 @@
 # Nuxt Minimal Starter
+<img width="1050" height="768" alt="chatbot" src="https://github.com/user-attachments/assets/2ed0746a-890d-470e-9a9a-95efb2f28282" />
+
 
 This is a minimal Nuxt 3 starter project, designed to help you get up and running quickly with a clean and lightweight setup. Built with TypeScript and Vite, this project provides the foundation for developing powerful Vue-based applications with server-side rendering support.
 
